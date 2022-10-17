@@ -1,2 +1,2 @@
-# automating-counterspeech
-IIB Project
+# 'Automating Counterspeech in Dialogue Systems' - IIB Project
+
